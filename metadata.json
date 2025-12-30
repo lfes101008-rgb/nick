@@ -1,0 +1,5 @@
+{
+  "name": "TaiStock AI Analyzer",
+  "description": "An intelligent Taiwan Stock Market analysis tool powered by Gemini. Features real-time price search, technical analysis charts (K-Line + MAs), and trend simulation.",
+  "requestFramePermissions": []
+}
